@@ -365,7 +365,7 @@ WEB-xpto-Exemplo-2
 WEB-xpto-Exemplo-3
 
 
- ### 10.0 - Arquitetura e documentação técnica
+ ### 10.0 - Arquitetura e documentação técnica (Material em construção)
  ### QA - Documentação
  Sprint 1
  Observações
