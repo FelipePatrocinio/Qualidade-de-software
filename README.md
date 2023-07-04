@@ -99,7 +99,7 @@ Serão utilizadas nos testes as seguintes ferramentas:
 
 ### Ferramenta
 
-# POSTMAN 
+## POSTMAN 
 - Para testes de API
 - 
 - CYPRESS PARA TESTE AUTOMATIZADO REGRESSIVO E PROGRESSIVO
