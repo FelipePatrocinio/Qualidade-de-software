@@ -269,5 +269,17 @@ Título: Cadastro de usuário
 	
 	Evidência #CT001.001
 
- 
+ ### 4.0 - Códigos GIT que utilizo no meu dia a dia
+
+git checkout -b feature/estoria-001 git    >  Cria a branch com o nome especificado
+
+git pull origin develop  >  Verifica atualização
+
+Git status > Verifica quais arquivos foram ou vão ser modificados.
+
+Git add . > Adiciona os arquivos para a alteração.
+
+git commit -m "Adicionar comentario sobra a modificação" > Realiza o commit com o comentario do que foi feito.
+
+git push 
 	
