@@ -318,7 +318,7 @@ Ao clicar em cada uma delas será redirecionado para a documentação técnica d
 
 API-xpto-Exemplo-1
 
-API-xpto-Exemplo-2
+WEB-xpto-Exemplo-2
 
 API-xpto-Exemplo-3
 
@@ -327,9 +327,9 @@ API-xpto-Exemplo-3
 Nessa sprint foram realizadas atividades de desenvolvimento e testes das aplicações listadas abaixo:
 Ao clicar em cada uma delas será redirecionado para a documentação técnica de desenvolvimento e teste de qualidade executadas nesse periodo.
 
-API-xpto-Exemplo-1
+WEB-xpto-Exemplo-1
 
-API-xpto-Exemplo-2
+WEB-xpto-Exemplo-2
 
 API-xpto-Exemplo-3
 
@@ -351,7 +351,7 @@ Ao clicar em cada uma delas será redirecionado para a documentação técnica d
 
 API-xpto-Exemplo-1
 
-API-xpto-Exemplo-2
+WEB-xpto-Exemplo-2
 
 API-xpto-Exemplo-3
 
@@ -360,9 +360,9 @@ API-xpto-Exemplo-3
   Nessa sprint foram realizadas atividades de desenvolvimento e testes das aplicações listadas abaixo:
 Ao clicar em cada uma delas será redirecionado para a documentação técnica de desenvolvimento e teste de qualidade executadas nesse periodo.
 
-API-xpto-Exemplo-1
+WEB-xpto-Exemplo-1
 
-API-xpto-Exemplo-2
+WEB-xpto-Exemplo-2
 
-API-xpto-Exemplo-3
+WEB-xpto-Exemplo-3
  
