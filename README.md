@@ -290,10 +290,64 @@ Título: Cadastro de usuário
 - git config > Configura opções do git, como nome de usuário, e-mail, entre outras.
 
  ### 5.0 Teste de performace / JMeter ( Material em produção)
-### performace
+### Performace
 ### O que é teste de performace?
 ### Tipos de teste de performace
 ### Criando scripts com JMeter
 
+### 6.0 Teste Manual
 
+Todos os testes são realizados primeiramente de forma manual seguindo os casos de testes que foram préviamente elaborados e pensados, serão escritos em Gherkin para um melhor entendimento e descrição, em cada caso de teste será anexada evidencias através de prints confirmando o comportamento de cada caso de teste.
+
+### 7.0 Teste Exploratório
+
+Serão realizados tambem testes exploratórios testes que estão fora dos casos de testes elaborados, tendo uma visão de usuário utilizando a aplicação explorando cada funcionalidade, validando campos e verificando pontos de melhoria.
+
+### 8.0 Teste Automatizado
+
+Como estratégia o teste automatizado será implementado para completar o ciclo de teste e garantia o funcionamento dos serviços, serão desenvolvido scripts de testes baseado nos testes manuais, cenários positivos e negativos, testes progressivos e regressivos, serão executados testes regressivos ao fim de cada release com o objetivo de garantia que tudo está funcionando e que nenhum novo desenvolvimento tenha quebrado o que já existe, se passar, concluimos que o sistema não regrediu.
+
+### 9.0 
+
+Testes realizados nas sprints durante o desenvolvimento
+
+- Sprint 1
+Nessa sprint foram realizadas atividades de desenvolvimento e testes das aplicações listadas abaixo:
+Ao clicar em cada uma delas será redirecionado para a documentação técnica de desenvolvimento e teste de qualidade executadas nesse periodo.
+
+API-xpto-Exemplo-1
+API-xpto-Exemplo-2
+API-xpto-Exemplo-3
+
+- Sprint 2
+Nessa sprint foram realizadas atividades de desenvolvimento e testes das aplicações listadas abaixo:
+Ao clicar em cada uma delas será redirecionado para a documentação técnica de desenvolvimento e teste de qualidade executadas nesse periodo.
+
+API-xpto-Exemplo-1
+API-xpto-Exemplo-2
+API-xpto-Exemplo-3
+
+- Sprint 3
+  Nessa sprint foram realizadas atividades de desenvolvimento e testes das aplicações listadas abaixo:
+Ao clicar em cada uma delas será redirecionado para a documentação técnica de desenvolvimento e teste de qualidade executadas nesse periodo.
+
+API-xpto-Exemplo-1
+API-xpto-Exemplo-2
+API-xpto-Exemplo-3
+
+- Sprint 4
+  Nessa sprint foram realizadas atividades de desenvolvimento e testes das aplicações listadas abaixo:
+Ao clicar em cada uma delas será redirecionado para a documentação técnica de desenvolvimento e teste de qualidade executadas nesse periodo.
+
+API-xpto-Exemplo-1
+API-xpto-Exemplo-2
+API-xpto-Exemplo-3
+
+- Sprint 5
+  Nessa sprint foram realizadas atividades de desenvolvimento e testes das aplicações listadas abaixo:
+Ao clicar em cada uma delas será redirecionado para a documentação técnica de desenvolvimento e teste de qualidade executadas nesse periodo.
+
+API-xpto-Exemplo-1
+API-xpto-Exemplo-2
+API-xpto-Exemplo-3
  
