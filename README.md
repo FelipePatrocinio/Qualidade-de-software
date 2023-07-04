@@ -112,7 +112,7 @@ Serão utilizadas nos testes as seguintes ferramentas:
 - Criar ciclos casos de testes e bugs
   
 ### CONFLUENCE 
-Documentação de casos de testes realizados durante as sprints
+- Documentação de casos de testes realizados durante as sprints
 
 ### JENKINS 
 - Gerar build e score de cada serviço, aumentando a qualidade das aplicações.
