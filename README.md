@@ -102,8 +102,10 @@ Serão utilizadas nos testes as seguintes ferramentas:
 ### POSTMAN 
 - Para testes de API
 - 
-- CYPRESS PARA TESTE AUTOMATIZADO REGRESSIVO E PROGRESSIVO
-- JMETER PARA TESTE DE PERFORMACE
+### CYPRESS 
+- Para teste automatizado regressivo e progressivo
+### JMETER 
+- Para teste de performace
 - ZEPHYR CRIAR CICLO E CASOS TESTES E BUGS
 - CONFLUENCE DOCUMENTAÇÃO DE DOS TESTES REALIZADOS EM CADA SPRINT
 - JENKINS GERAR BUILD E GERAR SCORE DE CADA SERVIÇO.
