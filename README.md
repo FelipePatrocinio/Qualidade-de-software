@@ -146,7 +146,7 @@ Pequenos erros de UI.
 Será considerada pronta as funcionalidades que passarem pelas verificações e testes descritos neste "Test Plan" 
 não apresentarem bugs com a severidade acima de minor, e passarem por uma validação de negócio de responsabilidade do time de produto.
 
-### 2.0 - Cenários e casos de testes / Exemplos
+# 2.0 - Cenários e casos de testes / Exemplos
 
 Título: Cadastro de usuário
 	
@@ -265,7 +265,7 @@ Título: Cadastro de usuário
 	Quando tento me logar sem preencher o campo login e senha
 	Então o sistema exibe uma mensagem de "Por favor digite seu login e senha
 
- ### 3.0 - Reporst Bugs / Exemplo
+ # 3.0 - Reporst Bugs / Exemplo
 
  	Bugs encontrados:
 	
@@ -282,7 +282,7 @@ Título: Cadastro de usuário
 	
 	Evidência #CT001.001
 
- ### 4.0 - Códigos GIT que utilizo no meu dia a dia
+ # 4.0 - Códigos GIT que utilizo no meu dia a dia
 
 - git checkout -b feature/estoria-001 git    >  Cria a branch com o nome especificado
 
@@ -300,25 +300,25 @@ Título: Cadastro de usuário
 
 - git config > Configura opções do git, como nome de usuário, e-mail, entre outras.
 
- ### 5.0 - Teste de performace / JMeter ( Material em produção)
+ # 5.0 - Teste de performace / JMeter ( Material em produção)
 ### Performace
 ### O que é teste de performace?
 ### Tipos de teste de performace
 ### Criando scripts com JMeter
 
-### 6.0 - Teste Manual
+# 6.0 - Teste Manual
 
 Todos os testes são realizados primeiramente de forma manual seguindo os casos de testes que foram préviamente elaborados e pensados, serão escritos em Gherkin para um melhor entendimento e descrição, em cada caso de teste será anexada evidencias através de prints confirmando o comportamento de cada caso de teste.
 
-### 7.0 - Teste Exploratório
+# 7.0 - Teste Exploratório
 
 Serão realizados tambem testes exploratórios testes que estão fora dos casos de testes elaborados, tendo uma visão de usuário utilizando a aplicação explorando cada funcionalidade, validando campos e verificando pontos de melhoria.
 
-### 8.0 - Teste Automatizado
+# 8.0 - Teste Automatizado
 
 Como estratégia o teste automatizado será implementado para completar o ciclo de teste e garantia o funcionamento dos serviços, serão desenvolvido scripts de testes baseado nos testes manuais, cenários positivos e negativos, testes progressivos e regressivos, serão executados testes regressivos ao fim de cada release com o objetivo de garantia que tudo está funcionando e que nenhum novo desenvolvimento tenha quebrado o que já existe, se passar, concluimos que o sistema não regrediu.
 
-### 9.0 - Testes realizados nas sprints durante o desenvolvimento
+# 9.0 - Testes realizados nas sprints durante o desenvolvimento
 
 - Sprint 1
   
@@ -376,7 +376,7 @@ WEB-xpto-Exemplo-2
 WEB-xpto-Exemplo-3
 
 
- ### 10.0 - Arquitetura e documentação técnica (Material em construção)
+ # 10.0 - Arquitetura e documentação técnica (Material em construção)
  ### QA - Documentação
  Sprint 1
  Observações
@@ -387,7 +387,7 @@ WEB-xpto-Exemplo-3
   Testes realizados:
 
 
-   ### 11.0 - Métricas de testes (Material em construção)
+   # 11.0 - Métricas de testes (Material em construção)
 
   # Extra
 
