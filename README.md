@@ -1,7 +1,7 @@
 # Qualidade de software
 Neste repositório, você encontrará um conjunto de boas práticas, ferramentas e exemplos que visam auxiliar no desenvolvimento de software com alta qualidade. Utilize-os como referência e busca contínua pela excelência na entrega de seu código.
 
-### 1.0 - Plano de teste / Tela de cadastro
+# 1.0 - Plano de teste / Tela de cadastro
 
 ### Introdução
 
@@ -117,7 +117,7 @@ Serão utilizadas nos testes as seguintes ferramentas:
 ### JENKINS 
 - Gerar build e score de cada serviço, aumentando a qualidade das aplicações.
 
-# Classificação de Bugs
+### Classificação de Bugs
 
 Os bugs serão classificados com as seguintes severidades:
 
