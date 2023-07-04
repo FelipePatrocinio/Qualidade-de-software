@@ -375,9 +375,9 @@ WEB-xpto-Exemplo-3
 
   Testes realizados:
 
-  ### Extra
+  # Extra
 
-  # Minhas extensões do VsCode
+  ### Minhas extensões do VsCode
 
   - Brackets Pair Colorizer
   - Material Icon Theme
