@@ -375,7 +375,7 @@ WEB-xpto-Exemplo-3
 
   Testes realizados:
 
-  # Extra
+  ## Extra
 
   ### Minhas extensões do VsCode
 
