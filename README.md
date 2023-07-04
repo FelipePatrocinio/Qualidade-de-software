@@ -375,4 +375,15 @@ WEB-xpto-Exemplo-3
 
   Testes realizados:
 
+  ### Extra
+
+  # Minhas extensões do VsCode
+
+  - Brackets Pair Colorizer
+  - Material Icon Theme
+  - ES6 Mocha Snippets
+  - Add Only
+  - Fold Plus
+  - Cypress Helper
+
   
