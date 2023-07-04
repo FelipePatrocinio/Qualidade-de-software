@@ -312,7 +312,7 @@ Como estratégia o teste automatizado será implementado para completar o ciclo 
 Testes realizados nas sprints durante o desenvolvimento
 
 - Sprint 1
-- 
+  
 Nessa sprint foram realizadas atividades de desenvolvimento e testes das aplicações listadas abaixo:
 Ao clicar em cada uma delas será redirecionado para a documentação técnica de desenvolvimento e teste de qualidade executadas nesse periodo.
 
@@ -323,7 +323,7 @@ API-xpto-Exemplo-2
 API-xpto-Exemplo-3
 
 - Sprint 2
-- 
+ 
 Nessa sprint foram realizadas atividades de desenvolvimento e testes das aplicações listadas abaixo:
 Ao clicar em cada uma delas será redirecionado para a documentação técnica de desenvolvimento e teste de qualidade executadas nesse periodo.
 
@@ -334,7 +334,7 @@ API-xpto-Exemplo-2
 API-xpto-Exemplo-3
 
 - Sprint 3
-- 
+ 
   Nessa sprint foram realizadas atividades de desenvolvimento e testes das aplicações listadas abaixo:
 Ao clicar em cada uma delas será redirecionado para a documentação técnica de desenvolvimento e teste de qualidade executadas nesse periodo.
 
@@ -345,7 +345,7 @@ API-xpto-Exemplo-2
 API-xpto-Exemplo-3
 
 - Sprint 4
-- 
+ 
   Nessa sprint foram realizadas atividades de desenvolvimento e testes das aplicações listadas abaixo:
 Ao clicar em cada uma delas será redirecionado para a documentação técnica de desenvolvimento e teste de qualidade executadas nesse periodo.
 
@@ -356,7 +356,7 @@ API-xpto-Exemplo-2
 API-xpto-Exemplo-3
 
 - Sprint 5
-- 
+
   Nessa sprint foram realizadas atividades de desenvolvimento e testes das aplicações listadas abaixo:
 Ao clicar em cada uma delas será redirecionado para a documentação técnica de desenvolvimento e teste de qualidade executadas nesse periodo.
 
