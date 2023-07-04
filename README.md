@@ -117,7 +117,7 @@ Serão utilizadas nos testes as seguintes ferramentas:
 ### JENKINS 
 - Gerar build e score de cada serviço, aumentando a qualidade das aplicações.
 
-### Classificação de Bugs
+# Classificação de Bugs
 
 Os bugs serão classificados com as seguintes severidades:
 
