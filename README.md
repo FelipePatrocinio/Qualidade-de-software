@@ -273,7 +273,7 @@ Título: Cadastro de usuário
 
 - git checkout -b feature/estoria-001 git    >  Cria a branch com o nome especificado
 
-- git clone: Clona um repositório git existente para o local atual.
+- git clone > Clona um repositório git existente para o local atual.
 
 - git pull origin develop  >  Verifica atualização
 
@@ -283,5 +283,7 @@ Título: Cadastro de usuário
 
 - git commit -m "Adicionar comentario sobra a modificação" > Realiza o commit com o comentario do que foi feito.
 
-- git push 
+- git push > Envia as alterações locais para um repositório remoto
+
+- git config > Configura opções do git, como nome de usuário, e-mail, entre outras.
 	
