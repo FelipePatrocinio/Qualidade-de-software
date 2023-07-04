@@ -375,6 +375,9 @@ WEB-xpto-Exemplo-3
 
   Testes realizados:
 
+
+   ### 11.0 - Métricas de testes (Material em construção)
+
   # Extra
 
   ### Minhas extensões do VsCode
