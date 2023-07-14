@@ -1,0 +1,23 @@
+# Instalando o Postman
+Passo 1: Acesse o site oficial do Postman
+Primeiramente, acesse o site oficial do Postman em www.postman.com.
+
+Passo 2: Baixe a versão adequada
+No site, você encontrará diferentes opções de download para o Postman, como a versão para Windows, Mac e Linux. Escolha a versão adequada para o seu sistema operacional e clique no botão de download correspondente.
+
+Passo 3: Aguarde o download
+Após clicar no botão de download, aguarde o processo de download ser concluído. O tempo necessário pode variar de acordo com a velocidade da sua conexão com a internet.
+
+Passo 4: Instale o Postman
+Depois que o download for concluído, localize o arquivo de instalação em seu computador e execute-o. Siga as instruções na tela para instalar o Postman em seu sistema operacional.
+
+Passo 5: Crie uma conta (opcional)
+Ao abrir o Postman pela primeira vez, você terá a opção de criar uma conta ou fazer login caso já possua uma. Essa etapa é opcional, mas ter uma conta no Postman permite que você acesse recursos extras, como sincronização de dados entre diferentes dispositivos.
+
+Passo 6: Explore a interface do Postman
+Após a instalação e login (caso tenha criado uma conta), você verá a interface do Postman. Explore as diferentes guias, como "Requests" (Requisições), "Collections" (Coleções) e "Environments" (Ambientes), para se familiarizar com a ferramenta.
+
+Passo 7: Comece a usar o Postman
+Agora que você tem o Postman instalado, pode começar a criar e testar suas requisições. Utilize a barra de pesquisa na parte superior da interface para encontrar recursos e aprender mais sobre como usar o Postman.
+
+Pronto! Você seguiu com sucesso o passo a passo para instalar o Postman em seu computador. Agora você pode aproveitar todos os benefícios dessa ferramenta para testar e desenvolver suas APIs.
