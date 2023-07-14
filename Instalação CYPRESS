@@ -1,0 +1,37 @@
+ # Passo a passo para instalar o Cypress no computador:
+
+## Verifique os requisitos do sistema:
+- Node.js (versão 10 ou superior)
+- Git
+
+1 - Abra o terminal ou prompt de comando e digite o seguinte comando para verificar se o Node.js está instalado corretamente:
+node -v
+Se a versão do Node.js for exibida, significa que está instalado corretamente. Caso contrário, instale o Node.js antes de prosseguir.
+
+2 - Verifique se o Git está instalado corretamente digitando o seguinte comando:
+
+git --version
+Se a versão do Git for exibida, significa que está instalado corretamente. Caso contrário, instale o Git antes de prosseguir.
+
+3 - Navegue até o diretório desejado em seu terminal ou prompt de comando.
+
+4 - Execute o seguinte comando para criar um novo diretório e inicializar um novo projeto do Cypress:
+
+mkdir nome_do_projeto
+cd nome_do_projeto
+npm init -y
+
+5 - Instale o Cypress usando o seguinte comando:
+
+npm install cypress --save-dev
+Isso pode levar algum tempo, pois o Cypress será baixado e instalado juntamente com suas dependências.
+
+6 - Após a instalação ser concluída, execute o seguinte comando para abrir o Cypress:
+
+npx cypress open
+Isso abrirá a interface gráfica do Cypress, permitindo que você execute seus testes automatizados em um navegador.
+
+Requisitos para instalar o Cypress:
+
+Node.js (versão 10 ou superior)
+Git
